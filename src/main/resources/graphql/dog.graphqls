@@ -29,7 +29,7 @@ type Dog {
 # We just can have one Query
 type Query {
     findAllDogs: [Dog]!
-    findDobById(id:ID): Dog!
+    findDogById(id:ID): Dog!
 }
 
 # We just can have one Mutation
