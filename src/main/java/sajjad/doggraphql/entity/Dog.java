@@ -1,4 +1,4 @@
-package sajjad.doggraphql.Entities;
+package sajjad.doggraphql.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
